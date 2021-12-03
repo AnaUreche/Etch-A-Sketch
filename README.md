@@ -1,4 +1,4 @@
-#Sketch - Virtual Etch-A-Sketch#
+# Sketch - Virtual Etch-A-Sketch #
 
 Sketch is a virtual representation of the famous Etch-A-Sketch.
 
