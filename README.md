@@ -24,6 +24,13 @@ will fill the entire canvas so you might lose your work. Also, the background co
 change the colour at the same time, leaving the whole canvas with the same colour.
 
 
+Results
+-------
+
+file:///home/s5216592/Documents/ProgrammingAssignments/Etch-A-Sketch/SampleResults/out7.bmp![image](https://user-images.githubusercontent.com/78536620/144681774-232f47ee-41cb-408e-bef1-1d3fd53174e5.png)
+
+file:///home/s5216592/Documents/ProgrammingAssignments/Etch-A-Sketch/SampleResults/test9![image](https://user-images.githubusercontent.com/78536620/144681842-7ef60198-13ee-414f-81b6-81b5c2e57c98.png)
+
 
 Developed and tested on Linux
 -----------------------------
